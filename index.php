@@ -1,3 +1,3 @@
 <?php
-	header("Location: http://http://monzer.horkuapp/index.html");
+	header("Location:file:///G:/doloma/doloma/minics-html/minics-html/index.html");
 	die();
