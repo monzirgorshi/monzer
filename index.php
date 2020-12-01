@@ -1,3 +1,3 @@
 <?php
-	header("Location: http://monzer.horkuapp/index.html");
+	header("Location: http://http://monzer.horkuapp/index.html.php");
 	die();
